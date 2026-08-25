@@ -26,6 +26,14 @@ An e-commerce application written in TypeScript. The application is organized us
 
 `TypeScript` `SCSS` `Vite` `REST API` `MVP`
 
+### [To Do List](https://github.com/person5494/todo-react)
+
+A React task manager with search, task statistics, light and dark themes, persistent data and a layered project structure inspired by Feature-Sliced Design.
+
+[Live demo](https://person5494.github.io/todo-react/)
+
+`React` `JavaScript` `SCSS Modules` `Vite` `Context API` `useReducer`
+
 ### [Blog Customizer](https://github.com/person5494/blog-customizer)
 
 A React interface for changing article appearance through a settings panel. Form state and applied page settings are handled separately, with styling controlled through CSS variables.
