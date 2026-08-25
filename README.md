@@ -1,4 +1,4 @@
-# Alexey Surkov
+# Alexey
 
 Frontend developer focused on React and TypeScript.
 
