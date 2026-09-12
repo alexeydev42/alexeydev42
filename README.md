@@ -1,8 +1,8 @@
 # Alexey
 
-Frontend developer focused on React and TypeScript.
+Frontend developer working with React and TypeScript.
 
-I am currently building my frontend development skills through project work, with a focus on application architecture, state management, API integration, routing and testing.
+Completed the Yandex Practicum Frontend Developer program in 2026. I work with application architecture, state management, API integration, routing, testing and team-based Git workflows.
 
 ## Tech stack
 
@@ -13,6 +13,14 @@ I am currently building my frontend development skills through project work, wit
 **Other:** Storybook
 
 ## Selected projects
+
+### [SkillSwap](https://github.com/person5494/SkillSwap_55_3)
+
+A team project for skill exchange, developed as the final project of the Yandex Practicum Frontend Developer program.
+
+I worked as an assistant team lead and frontend developer. The project includes a user catalog, filtering and search, favorites, authentication, protected routes, notifications, Redux state management, automated tests and CI.
+
+`React` `TypeScript` `Redux Toolkit` `React Router` `Vitest` `Storybook`
 
 ### [Stellar Burgers](https://github.com/person5494/stellar-burgers)
 
