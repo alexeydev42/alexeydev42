@@ -28,12 +28,6 @@ A React application for creating burger orders. The project includes routing, au
 
 `React` `TypeScript` `Redux Toolkit` `React Router` `Jest` `Playwright`
 
-### [WebLarek](https://github.com/alexeydev42/weblarek)
-
-An e-commerce application written in TypeScript. The application is organized using the MVP pattern and separates data models, UI components and application logic.
-
-`TypeScript` `SCSS` `Vite` `REST API` `MVP`
-
 ### [To Do List](https://github.com/alexeydev42/todo-react)
 
 A React task manager with search, task statistics, light and dark themes, persistent data and a layered project structure inspired by Feature-Sliced Design.
@@ -41,6 +35,12 @@ A React task manager with search, task statistics, light and dark themes, persis
 [Live demo](https://alexeydev42.github.io/todo-react/)
 
 `React` `JavaScript` `SCSS Modules` `Vite` `Context API` `useReducer`
+
+### [WebLarek](https://github.com/alexeydev42/weblarek)
+
+An e-commerce application written in TypeScript. The application is organized using the MVP pattern and separates data models, UI components and application logic.
+
+`TypeScript` `SCSS` `Vite` `REST API` `MVP`
 
 ### [Blog Customizer](https://github.com/alexeydev42/blog-customizer)
 
