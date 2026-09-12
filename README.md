@@ -47,7 +47,3 @@ A React task manager with search, task statistics, light and dark themes, persis
 A React interface for changing article appearance through a settings panel. Form state and applied page settings are handled separately, with styling controlled through CSS variables.
 
 `React` `TypeScript` `SCSS` `Webpack` `Storybook`
-
-## Currently
-
-Working on frontend projects and continuing to deepen my knowledge of React, TypeScript and modern frontend development practices.
