@@ -28,3 +28,7 @@ React application with authentication, protected routes, Redux state management,
 ## Currently
 
 Looking for frontend development opportunities and continuing to build practical experience with React, TypeScript and modern frontend tooling.
+
+## Contact
+
+alexey.dev42@gmail.com
