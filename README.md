@@ -18,7 +18,7 @@ I completed the Yandex Practicum Frontend Developer program in 2026. Most of my 
 
 ### [SkillSwap](https://github.com/alexeydev42/SkillSwap_55_3)
 
-A team React/TypeScript project for skill exchange. I worked on it as an assistant team lead and frontend developer.
+A team React/TypeScript application for skill exchange. I worked on it as an assistant team lead and frontend developer, mainly on application logic, Redux state, routing and user flows. After the team project, I continued developing the fork independently, adding responsive layouts, light and dark themes, skill editing, GitHub Pages deployment and regression tests.
 
 [Live demo](https://alexeydev42.github.io/SkillSwap_55_3/)
 
