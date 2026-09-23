@@ -8,8 +8,8 @@
 
 ## Стек
 
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, SCSS  
-**State и routing:** Redux Toolkit, React Router  
+**Фронтенд:** React, TypeScript, JavaScript, HTML, CSS, SCSS  
+**Состояние и маршрутизация:** Redux Toolkit, React Router  
 **Инструменты:** Vite, Webpack, Git  
 **Тестирование:** Jest, React Testing Library, Cypress, Playwright  
 **Другое:** Storybook
@@ -32,6 +32,6 @@ React-приложение с авторизацией, защищёнными �
 
 ## Сейчас
 
-Ищу работу во frontend-разработке и продолжаю работать над проектами на React и TypeScript.
+Ищу работу во фронтенд-разработке и продолжаю работать над проектами на React и TypeScript.
 
 alexey.dev42@gmail.com
