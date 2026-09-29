@@ -20,19 +20,19 @@ I completed the Yandex Practicum Frontend Developer program in 2026. Most of my 
 
 My personal portfolio website, designed and built with React and TypeScript. It includes responsive layouts, English and Russian versions, project and certificate previews, keyboard and touch interaction states, and a few small interface details such as active section navigation and a pointer-following spotlight effect.
 
-[Live demo](https://alexeydev42.github.io/)
+[Live demo](https://alexeydev42.com/)
 
 ### [SkillSwap](https://github.com/alexeydev42/SkillSwap_55_3)
 
 A team React/TypeScript application for skill exchange. I worked on it as an assistant team lead and frontend developer, mainly on application logic, Redux state, routing and user flows. After the team project, I continued developing the fork independently, adding responsive layouts, light and dark themes, skill editing, GitHub Pages deployment and regression tests.
 
-[Live demo](https://alexeydev42.github.io/SkillSwap_55_3/)
+[Live demo](https://alexeydev42.com/SkillSwap_55_3/)
 
 ### [To Do List](https://github.com/alexeydev42/todo-react)
 
 A small React task manager with search, statistics, theme switching and persistent data.
 
-[Live demo](https://alexeydev42.github.io/todo-react/)
+[Live demo](https://alexeydev42.com/todo-react/)
 
 ### [Stellar Burgers](https://github.com/alexeydev42/stellar-burgers)
 
