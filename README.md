@@ -18,7 +18,7 @@ I completed the Yandex Practicum Frontend Developer program in 2026. Most of my 
 
 ### [Portfolio Website](https://github.com/alexeydev42/alexeydev42.github.io)
 
-My personal portfolio website, designed and built with React and TypeScript. It includes responsive layouts, English and Russian versions, project and certificate previews, keyboard and touch interaction states, and a few small interface details such as active section navigation and a pointer-following spotlight effect.
+My personal portfolio website built with React and TypeScript. It includes responsive layouts, English and Russian versions, project and certificate previews, keyboard and touch interaction states, automated UI tests and a few smaller interface details such as active section navigation and a pointer-following spotlight effect.
 
 [Live demo](https://alexeydev42.com/)
 
@@ -28,18 +28,25 @@ A team React/TypeScript application for skill exchange. I worked on it as an ass
 
 [Live demo](https://alexeydev42.com/SkillSwap_55_3/)
 
+### [Stellar Burgers](https://github.com/alexeydev42/stellar-burgers)
+
+A React application with authentication, protected routes, Redux state management, API integration and automated tests.
+
 ### [To Do List](https://github.com/alexeydev42/todo-react)
 
 A small React task manager with search, statistics, theme switching and persistent data.
 
 [Live demo](https://alexeydev42.com/todo-react/)
 
-### [Stellar Burgers](https://github.com/alexeydev42/stellar-burgers)
+## Open source
 
-A React application with authentication, protected routes, Redux state management, API integration and automated tests.
+I’ve also started contributing to other open-source projects. It’s a useful way to work with unfamiliar codebases, existing project conventions and maintainer review.
+
+- [Ditto #139](https://github.com/Kartik8Dwivedi/Ditto/pull/139) — improved accessibility in the cluster toolbar.
+- [stock-price #186](https://github.com/ankit02327/stock-price/pull/186) — added unit tests for the currency toggle.
 
 ## Currently
 
-Looking for a frontend development role and continuing to work on React and TypeScript projects.
+Looking for a frontend development role, contributing to open-source projects and continuing to work with React and TypeScript.
 
 alexey.dev42@gmail.com
