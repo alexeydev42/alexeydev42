@@ -1,6 +1,6 @@
 English | [Русский](./README.ru.md)
 
-# Alexey
+# Alexey Surkov
 
 Frontend developer working mainly with React and TypeScript.
 
