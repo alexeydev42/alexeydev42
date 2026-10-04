@@ -40,7 +40,7 @@ A small React task manager with search, statistics, theme switching and persiste
 
 ## Open source
 
-I contribute to open-source projects. It’s a useful way to work with unfamiliar codebases, existing project conventions and maintainer review.
+I contribute to open-source projects. It’s a useful way to work with unfamiliar codebases, existing project conventions, and maintainer review.
 
 - [Ditto #140](https://github.com/Kartik8Dwivedi/Ditto/pull/140) — fixed saved theme restoration before first paint to prevent a light-theme flash.
 - [Ditto #139](https://github.com/Kartik8Dwivedi/Ditto/pull/139) — improved accessibility in the cluster toolbar.
