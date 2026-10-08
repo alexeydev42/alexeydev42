@@ -42,6 +42,7 @@ React-приложение с авторизацией, защищёнными �
 
 Участвую в open-source проектах. Это хороший способ поработать с незнакомым кодом, существующими правилами проекта и пройти ревью от мейнтейнера.
 
+- [Open Source Kigali #337](https://github.com/Open-Source-Kigali/osk-frontend/pull/337) — исправил переход из CTA в блоке партнёров и добавил регрессионный тест для пустых ссылок.
 - [Ditto #140](https://github.com/Kartik8Dwivedi/Ditto/pull/140) — исправил восстановление сохранённой темы до первой отрисовки, чтобы при загрузке не появлялась вспышка светлой темы.
 - [Ditto #139](https://github.com/Kartik8Dwivedi/Ditto/pull/139) — доработал accessibility панели управления кластером.
 - [stock-price #186](https://github.com/ankit02327/stock-price/pull/186) — добавил unit-тесты для переключателя валют.
