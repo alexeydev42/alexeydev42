@@ -4,43 +4,49 @@ English | [Русский](./README.ru.md)
 
 Frontend developer working mainly with React and TypeScript.
 
-I completed the Yandex Practicum Frontend Developer program in 2026. Most of my recent work has been around React applications, state management, API integration, routing, testing and team Git workflows.
+I build web applications with state management, API integrations, local persistence, automated testing and CI. In 2026 I completed the Yandex Practicum Frontend Developer program and since then have been working on personal and open-source projects.
 
 ## Tech stack
 
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS, SCSS  
 **State and routing:** Redux Toolkit, React Router  
-**Tooling:** Vite, Webpack, Git  
-**Testing:** Jest, React Testing Library, Cypress, Playwright  
+**Tooling:** Vite, Webpack, Git, GitHub Actions  
+**Testing:** Vitest, Jest, React Testing Library, Cypress, Playwright  
 **Other:** Storybook
 
 ## Selected projects
 
-### [Portfolio Website](https://github.com/alexeydev42/alexeydev42.github.io)
+### [PhraseCue](https://github.com/alexeydev42/phrase-cue)
 
-My personal portfolio website built with React and TypeScript. It includes responsive layouts, English and Russian versions, project and certificate previews, keyboard and touch interaction states, automated UI tests and a few smaller interface details such as active section navigation and a pointer-following spotlight effect.
+A mobile-first React/TypeScript app for saving and learning English phrases from TV series subtitles.
 
-[Live demo](https://alexeydev42.com/)
+It supports SRT import, timecode-based subtitle search, phrase editing and translation, a learning workflow, IndexedDB persistence and JSON backups. Translation runs through a serverless API with a fallback endpoint and rate limiting.
+
+The project includes automated tests, CI and a published v1.0.0 release.
+
+[Live demo](https://alexeydev42.com/phrase-cue/) · [v1.0.0](https://github.com/alexeydev42/phrase-cue/releases/tag/v1.0.0)
 
 ### [SkillSwap](https://github.com/alexeydev42/SkillSwap_55_3)
 
-A team React/TypeScript application for skill exchange. I worked on it as an assistant team lead and frontend developer, mainly on application logic, Redux state, routing and user flows. After the team project, I continued developing the fork independently, adding responsive layouts, light and dark themes, skill editing, GitHub Pages deployment and regression tests.
+A team React/TypeScript application for skill exchange. I worked on it as an assistant team lead and frontend developer, mainly on application logic, Redux state, routing and user flows.
+
+After the team project, I continued developing the fork independently, adding responsive layouts, light and dark themes, skill editing, GitHub Pages deployment and regression tests.
 
 [Live demo](https://alexeydev42.com/SkillSwap_55_3/)
 
+### [Portfolio Website](https://github.com/alexeydev42/alexeydev42.github.io)
+
+My personal portfolio website built with React and TypeScript. It includes responsive layouts, English and Russian versions, project and certificate previews, keyboard and touch interaction states, automated UI tests, analytics and accessibility improvements.
+
+[Live demo](https://alexeydev42.com/) · [v1.0.0](https://github.com/alexeydev42/alexeydev42.github.io/releases/tag/v1.0.0)
+
 ### [Stellar Burgers](https://github.com/alexeydev42/stellar-burgers)
 
-A React application with authentication, protected routes, Redux state management, API integration and automated tests.
-
-### [To Do List](https://github.com/alexeydev42/todo-react)
-
-A small React task manager with search, statistics, theme switching and persistent data.
-
-[Live demo](https://alexeydev42.com/todo-react/)
+A React/TypeScript application with authentication, protected routes, Redux Toolkit state management, API integration and automated tests.
 
 ## Open source
 
-I contribute to open-source projects. It’s a useful way to work with unfamiliar codebases, existing project conventions, and maintainer review.
+I contribute to open-source projects. It gives me experience working with unfamiliar codebases, existing project conventions and maintainer review.
 
 - [Open Source Kigali #337](https://github.com/Open-Source-Kigali/osk-frontend/pull/337) — fixed the partner marquee CTA and added a regression test for empty links.
 - [Ditto #140](https://github.com/Kartik8Dwivedi/Ditto/pull/140) — fixed saved theme restoration before first paint to prevent a light-theme flash.
@@ -49,6 +55,6 @@ I contribute to open-source projects. It’s a useful way to work with unfamilia
 
 ## Currently
 
-Looking for a frontend development role, contributing to open-source projects and continuing to work with React and TypeScript.
+Looking for a frontend development role and continuing to work on personal and open-source projects.
 
 alexey.dev42@gmail.com
