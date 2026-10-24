@@ -22,9 +22,9 @@ A mobile-first React/TypeScript app for saving and learning English phrases from
 
 It supports SRT import, timecode-based subtitle search, phrase editing and translation, a learning workflow, IndexedDB persistence and JSON backups. Translation runs through a serverless API with a fallback endpoint and rate limiting.
 
-The project includes automated tests, CI and a published v1.1.0 release.
+The project includes automated tests, CI and a published v1.2.0 release.
 
-[Live demo](https://alexeydev42.com/phrase-cue/) · [v1.1.0](https://github.com/alexeydev42/phrase-cue/releases/tag/v1.1.0)
+[Live demo](https://alexeydev42.com/phrase-cue/) · [v1.2.0](https://github.com/alexeydev42/phrase-cue/releases/tag/v1.2.0)
 
 ### [SkillSwap](https://github.com/alexeydev42/SkillSwap_55_3)
 
