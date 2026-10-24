@@ -22,9 +22,9 @@ Mobile-first приложение на React и TypeScript для сохране
 
 Есть импорт SRT, поиск реплик по таймкоду, редактирование и перевод фраз, режим обучения, хранение данных в IndexedDB и JSON-бэкапы. Перевод работает через serverless API с резервным endpoint и rate limiting.
 
-В проекте настроены автоматические тесты, CI и опубликован релиз v1.1.0.
+В проекте настроены автоматические тесты, CI и опубликован релиз v1.2.0.
 
-[Демо](https://alexeydev42.com/phrase-cue/) · [v1.1.0](https://github.com/alexeydev42/phrase-cue/releases/tag/v1.1.0)
+[Демо](https://alexeydev42.com/phrase-cue/) · [v1.2.0](https://github.com/alexeydev42/phrase-cue/releases/tag/v1.2.0)
 
 ### [SkillSwap](https://github.com/alexeydev42/SkillSwap_55_3)
 
