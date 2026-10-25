@@ -20,7 +20,7 @@ I build web applications with state management, API integrations, local persiste
 
 A mobile-first React/TypeScript app for saving and learning English phrases from TV series subtitles.
 
-It supports SRT import, timecode-based subtitle search, phrase editing and translation, a learning workflow, IndexedDB persistence and JSON backups. Translation runs through a serverless API with a fallback endpoint and rate limiting.
+It supports SRT import, subtitle search by approximate timecode or text, phrase editing and translation, a learning workflow, IndexedDB persistence and JSON backups. Translation runs through a serverless API with a fallback endpoint and rate limiting.
 
 The project includes automated tests, CI and a published v1.4.0 release.
 
