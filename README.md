@@ -11,7 +11,7 @@ I build web applications with state management, API integrations, local persiste
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS, SCSS  
 **State and routing:** Redux Toolkit, React Router  
 **Tooling:** Vite, Webpack, Git, GitHub Actions  
-**Testing:** Vitest, Jest, React Testing Library, Cypress, Playwright  
+**Testing:** Vitest, Jest, React Testing Library, Playwright  
 **Other:** Storybook
 
 ## Selected projects
