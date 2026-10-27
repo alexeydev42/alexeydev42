@@ -11,7 +11,7 @@
 **Фронтенд:** React, TypeScript, JavaScript, HTML, CSS, SCSS  
 **Состояние и маршрутизация:** Redux Toolkit, React Router  
 **Инструменты:** Vite, Webpack, Git, GitHub Actions  
-**Тестирование:** Vitest, Jest, React Testing Library, Cypress, Playwright  
+**Тестирование:** Vitest, Jest, React Testing Library, Playwright  
 **Другое:** Storybook
 
 ## Основные проекты
