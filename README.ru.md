@@ -57,4 +57,4 @@ React/TypeScript-приложение с авторизацией, защищё�
 
 Ищу работу во фронтенд-разработке и продолжаю работать над собственными и open-source проектами.
 
-alexey.dev42@gmail.com
+[Email](mailto:alexey.dev42@gmail.com) · [Telegram](https://t.me/alexeydev42) · [LinkedIn](https://www.linkedin.com/in/alexeydev42/)
