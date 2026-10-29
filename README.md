@@ -57,4 +57,4 @@ I contribute to open-source projects. It gives me experience working with unfami
 
 Looking for a frontend development role and continuing to work on personal and open-source projects.
 
-alexey.dev42@gmail.com
+[Email](mailto:alexey.dev42@gmail.com) · [Telegram](https://t.me/alexeydev42) · [LinkedIn](https://www.linkedin.com/in/alexeydev42/)
