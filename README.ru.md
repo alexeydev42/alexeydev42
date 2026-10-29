@@ -38,7 +38,7 @@ Mobile-first приложение на React и TypeScript для сохране
 
 Мой личный сайт-портфолио на React и TypeScript. В нём есть адаптивная вёрстка, английская и русская версии, просмотр проектов и сертификатов, отдельные состояния для клавиатуры и touch-устройств, автоматические UI-тесты, аналитика и доработки accessibility.
 
-[Демо](https://alexeydev42.com/) · [v1.0.0](https://github.com/alexeydev42/alexeydev42.github.io/releases/tag/v1.0.0)
+[Демо](https://alexeydev42.com/) · [v1.1.0](https://github.com/alexeydev42/alexeydev42.github.io/releases/tag/v1.1.0)
 
 ### [Stellar Burgers](https://github.com/alexeydev42/stellar-burgers)
 
