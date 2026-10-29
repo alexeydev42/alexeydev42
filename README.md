@@ -38,7 +38,7 @@ After the team project, I continued developing the fork independently, adding re
 
 My personal portfolio website built with React and TypeScript. It includes responsive layouts, English and Russian versions, project and certificate previews, keyboard and touch interaction states, automated UI tests, analytics and accessibility improvements.
 
-[Live demo](https://alexeydev42.com/) · [v1.0.0](https://github.com/alexeydev42/alexeydev42.github.io/releases/tag/v1.0.0)
+[Live demo](https://alexeydev42.com/) · [v1.1.0](https://github.com/alexeydev42/alexeydev42.github.io/releases/tag/v1.1.0)
 
 ### [Stellar Burgers](https://github.com/alexeydev42/stellar-burgers)
 
